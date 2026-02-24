@@ -1,5 +1,5 @@
 {
-  "name": "lrs-style",
+  "name": "clarity-and-grace",
   "version": "1.0.0",
   "description": "Three-layer writing system for clear, concrete prose",
   "owner": {
@@ -7,7 +7,7 @@
   },
   "plugins": [
     {
-      "name": "lrs-style",
+      "name": "clarity-and-grace",
       "description": "Three-layer writing system — stance (Thomas & Turner), cognition (Pinker), and mechanics (Strunk + Williams) — with condensed reference files and before/after examples for every rule",
       "version": "1.0.0",
       "source": "./",
