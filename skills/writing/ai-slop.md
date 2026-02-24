@@ -6,11 +6,13 @@ Patterns derived from corpus analysis (Liang et al. 2024), LinkedIn monitoring, 
 
 ## Banned vocabulary
 
-Words statistically overrepresented in AI-generated text. Replace with specific, concrete alternatives.
+Violates **Strunk 12** (specific, concrete language). These are abstract placeholders. "Robust" says nothing. "Handles 10K concurrent requests" says something. Replace every instance with a specific, concrete alternative.
 
 delve, utilize, leverage, streamline, optimize, enhance, facilitate, navigate, landscape, paradigm, robust, comprehensive, innovative, transformative, pivotal, crucial, imperative, foster, bolster, underscore, realm, multifaceted, intricate, nuanced, holistic, synergy, catalyst, cornerstone, testament, tapestry, endeavor, embark, elevate, empower, unpack, dive, journey, passion, excited, thrilled, insightful, groundbreaking, game-changer, cutting-edge, seamless, scalable, actionable, impactful, ecosystem, stakeholder
 
 ## Filler phrases
+
+Violates **Strunk 13** (omit needless words). Zero information content. Delete and start with the point.
 
 | Ban | Fix |
 |---|---|
@@ -36,11 +38,13 @@ delve, utilize, leverage, streamline, optimize, enhance, facilitate, navigate, l
 
 ## Overused transitions
 
-These words are not wrong, but clustering them signals AI authorship. Use one per paragraph at most. Prefer sentence structure to signal relationships.
+Violates **Thomas & Turner** (show parallels by juxtaposition). Announces connections instead of letting placement show them. These words are not wrong individually, but clustering them signals AI authorship. Use one per paragraph at most. Prefer sentence structure to signal relationships.
 
 moreover, furthermore, however, additionally, consequently, nevertheless, therefore, thus, hence, meanwhile, subsequently, likewise, conversely, nonetheless
 
 ## Engagement bait
+
+Violates **Thomas & Turner** (motive is truth, purpose is presentation). The motive here is engagement, not truth. The purpose is performance, not presentation.
 
 | Ban | Category |
 |---|---|
@@ -51,6 +55,8 @@ moreover, furthermore, however, additionally, consequently, nevertheless, theref
 | "thrilled to announce" "excited to share" "humbled and honored" | Performative emotion |
 
 ## Thought-leadership slop
+
+Violates **Thomas & Turner** (writer and reader are equals). Talks down to the reader. Manufactures exclusivity. Implies the reader is uninformed.
 
 | Ban | Category |
 |---|---|
@@ -65,6 +71,8 @@ moreover, furthermore, however, additionally, consequently, nevertheless, theref
 
 ## Formulaic structures
 
+Violates **Thomas & Turner** (motive is truth) and **Pinker 1** (no meta-commentary). These are engagement machinery, not prose.
+
 | Ban | Category |
 |---|---|
 | "lessons I learned" | List-post framing |
@@ -75,7 +83,7 @@ moreover, furthermore, however, additionally, consequently, nevertheless, theref
 
 ## LinkedIn modifiers
 
-The "quietly + gerund" construction is a tell. Ban the pattern entirely.
+Violates **Strunk 12** (specific, concrete language) and **Williams 2** (actions as verbs). Performative adverb + gerund. Says nothing concrete about what was built. Ban the pattern entirely.
 
 | Ban |
 |---|
@@ -87,6 +95,8 @@ The "quietly + gerund" construction is a tell. Ban the pattern entirely.
 
 ## Humble-brag framing
 
+Violates **Thomas & Turner** (purpose is presentation, not performance). The timeline is the point, not the work.
+
 | Ban | Why |
 |---|---|
 | "built in a day" "in a weekend" "in just one week" | Compressed-timeline flex |
@@ -96,6 +106,8 @@ The "quietly + gerund" construction is a tell. Ban the pattern entirely.
 | "imagined and built" | Hero narrative |
 
 ## Manufactured demand
+
+Violates **Thomas & Turner** (motive is truth). Frames the post as audience response. The motive is social proof, not truth.
 
 | Ban | Why |
 |---|---|
