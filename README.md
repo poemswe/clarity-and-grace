@@ -33,7 +33,7 @@ The plugin includes four condensed reference files with before/after examples fo
 
 > We reached $100K ARR without paid ads. Eighteen months of focus on three things got us there.
 >
-> We built in public and shared every win, failure, and pivot. People followed the journey and became customers because they felt invested.
+> We built in public and shared every win, failure, and pivot. People followed the progress and became customers because they felt invested.
 >
 > We made our free tier a standalone product that solves a real problem. Users who got genuine value became our best evangelists.
 >
@@ -45,11 +45,14 @@ The plugin includes four condensed reference files with before/after examples fo
 
 | Before | After | Rule |
 |---|---|---|
+| "Here's how" | Cut | AI slop, thought-leadership. Also Williams 7, concision. |
 | "It wasn't magic and it wasn't luck" | Cut | Strunk 11, positive form. Say what IS. |
-| "Here's how" | Cut | Williams 7, concision. The post already shows how. |
 | "It was eighteen months of relentless focus" | "Eighteen months of focus... got us there" | Williams 1, characters as subjects. Remove empty "it was." |
+| "relentless focus" | "focus" | AI slop, LinkedIn modifiers. Performative adverb adds nothing. |
 | "Every win, every failure, every pivot was shared openly" | "shared every win, failure, and pivot" | Strunk 10, active voice. |
+| "followed the journey" | "followed the progress" | AI slop, banned vocabulary. "Journey" is a machine-authorship tell. |
 | "Not a stripped-down demo. A real product that solved a real problem." | "a standalone product that solves a real problem" | Strunk 11, positive form. Lead with what it IS. |
+| "obsessed over customer feedback" | "answered every feature request, bug report, and churn email personally" | AI slop, LinkedIn modifiers. Also Strunk 12, specific concrete language. |
 | "That's it. No growth hacks. No viral loops. No secret sauce." | "We executed three fundamentals consistently. That was the whole strategy." | Williams 7, concision. One strong close replaces four weak fragments. |
 
 ## Install
