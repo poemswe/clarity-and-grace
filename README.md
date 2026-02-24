@@ -31,7 +31,7 @@ The plugin ships four condensed reference files with before/after examples for e
 
 **After (with clarity-and-grace plugin)**
 
-> We reached $100K ARR without paid ads. Eighteen months of focus on three things got us there.
+> We reached $100K ARR without paid ads. We focused on three things for eighteen months.
 >
 > We built in public and shared every win, failure, and pivot. People followed the progress and became customers because they felt invested.
 >
@@ -47,7 +47,7 @@ The plugin ships four condensed reference files with before/after examples for e
 |---|---|---|
 | "Here's how" | Cut | AI slop, thought-leadership. Also Williams 7, concision. |
 | "It wasn't magic and it wasn't luck" | Cut | Strunk 11, positive form. Say what IS. |
-| "It was eighteen months of relentless focus" | "Eighteen months of focus... got us there" | Williams 1, characters as subjects. Remove empty "it was." |
+| "It was eighteen months of relentless focus" | "We focused on three things for eighteen months" | Williams 1, characters as subjects. "We" replaces empty "it was." |
 | "relentless focus" | "focus" | AI slop, LinkedIn modifiers. Performative adverb adds nothing. |
 | "Every win, every failure, every pivot was shared openly" | "shared every win, failure, and pivot" | Strunk 10, active voice. |
 | "followed the journey" | "followed the progress" | AI slop, banned vocabulary. "Journey" is a machine-authorship tell. |
