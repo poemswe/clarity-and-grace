@@ -16,6 +16,35 @@ The three layers:
 
 The plugin includes condensed reference files for Strunk and Williams with before/after examples for every rule.
 
+## Example
+
+**Before (standard AI output)**
+
+> We hit 100K ARR with zero paid ads. Here's how. It wasn't magic and it wasn't luck. It was eighteen months of relentless focus on three things. First, we built in public. Every win, every failure, every pivot was shared openly. People followed the journey and became customers because they felt invested in our story. Second, we made our free tier genuinely useful. Not a stripped-down demo. A real product that solved a real problem. Users who got value for free became our best evangelists. Third, we obsessed over customer feedback. Every feature request, every bug report, every churned user got a personal response. That's it. No growth hacks. No viral loops. No secret sauce. Just consistent execution on fundamentals.
+
+**After (with clarity-and-grace plugin)**
+
+> We reached $100K ARR without paid ads. Eighteen months of focus on three things got us there.
+>
+> We built in public and shared every win, failure, and pivot. People followed the journey and became customers because they felt invested.
+>
+> We made our free tier a standalone product that solves a real problem. Users who got genuine value became our best evangelists.
+>
+> We answered every feature request, bug report, and churn email personally.
+>
+> We executed three fundamentals consistently. That was the whole strategy.
+
+**What changed**
+
+| Before | After | Rule |
+|---|---|---|
+| "It wasn't magic and it wasn't luck" | Cut | Strunk 11, positive form. Say what IS. |
+| "Here's how" | Cut | Williams 7, concision. The post already shows how. |
+| "It was eighteen months of relentless focus" | "Eighteen months of focus... got us there" | Williams 1, characters as subjects. Remove empty "it was." |
+| "Every win, every failure, every pivot was shared openly" | "shared every win, failure, and pivot" | Strunk 10, active voice. |
+| "Not a stripped-down demo. A real product that solved a real problem." | "a standalone product that solves a real problem" | Strunk 11, positive form. Lead with what it IS. |
+| "That's it. No growth hacks. No viral loops. No secret sauce." | "We executed three fundamentals consistently. That was the whole strategy." | Williams 7, concision. One strong close replaces four weak fragments. |
+
 ## Install
 
 ```
