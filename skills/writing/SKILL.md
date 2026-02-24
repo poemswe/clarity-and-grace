@@ -26,9 +26,17 @@ Two cognitive principles govern whether readers understand you.
 
 **Chunking.** Working memory holds about four items. If a sentence forces the reader to track more than four new entities, relationships, or qualifications simultaneously, break it apart. Front-load the simple main clause. Let complexity trail behind it in subordinate structures.
 
+## Cognition Reference
+
+**Pinker (The Sense of Style)** — `pinker-condensed.md`
+- 1: **No meta-commentary** (never narrate the act of writing or reading)
+- 2: **No hedging** (commit to claims or present evidence)
+- 3: **Curse of knowledge** (one new concept at a time, four-item working memory limit)
+- 4: **Classic prose stance** (truth-oriented, conversational, no self-reference)
+
 ## Mechanics
 
-Two reference files contain the actionable rules with before/after examples.
+Four reference files contain the actionable rules with before/after examples.
 
 **Strunk (Elements of Style)** — `strunk-condensed.md`
 - 8: One paragraph per topic
@@ -58,9 +66,9 @@ Two reference files contain the actionable rules with before/after examples.
 **Grammar (apply from knowledge):**
 Possessives, serial comma, parenthetic commas, compound clauses, no comma splices, **no fragments** (every sentence needs a finite verb, not just a participle), dangling participles.
 
-## AI-Voice Patterns (Hard Bans)
+## AI-Voice Patterns
 
-These patterns recur in AI-generated prose. Ban them outright.
+These patterns recur in AI-generated prose. The full ban list with categories lives in `ai-slop.md`. The patterns below are structural tells to internalize.
 
 **Throat-clearing** — opening phrases that delay the point.
 Ban: "What this means is," "In practice," "To be clear," "The key here is," "That said."
@@ -81,8 +89,7 @@ Flag: "I was generating noise." "The current system has none." "Ambiguity breaks
 **Filler pairs** — padding that adds no meaning.
 Ban: "both X and Y" (just "X and Y"), "rather than," ending with "as well," "in order to" (just "to").
 
-**AI-voice tells** — words that signal machine authorship.
-Ban: "straightforward," "comprehensive," "seamless," "robust."
+**Banned vocabulary and slop phrases** — see `ai-slop.md` for the complete list of banned words (Liang et al. 2024), filler phrases, engagement bait, thought-leadership slop, LinkedIn modifiers, and formulaic structures.
 
 ## When Context Is Tight
 

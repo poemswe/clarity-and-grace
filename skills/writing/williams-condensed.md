@@ -30,8 +30,14 @@ Nominalizations are nouns formed from verbs (calibrate→calibration, decide→d
 | The mass spectrometer managed the measurement and identification of the proteins. | The mass spectrometer measured and identified the proteins. |
 | Our lack of data prevented us from making the prediction about the outcome. | Because we lacked data we could not predict the outcome. |
 | The intention of the committee is to improve morale. | The committee intends to improve morale. |
+| make a decision | decide |
+| give a presentation | present |
+| conduct an investigation | investigate |
+| perform an analysis | analyze |
+| reach a conclusion | conclude |
+| provide assistance | help |
 
-Diagnostic: look for nouns ending in -tion, -ment, -ence, -ance, -ity, -ism, -ness. Ask whether the noun was once a verb or adjective. If yes, turn it back.
+Diagnostic: look for nouns ending in -tion, -sion, -ment, -ness, -ity, -ence, -ance. Ask whether the noun was once a verb or adjective. If yes, turn it back.
 
 **Exception:** Keep nominalizations that are the established term for a concept. "Alienation" in Marx, "phyletic gradualism" in evolutionary biology, "nominalization" in linguistics. If the noun IS the topic, use it. The rule targets unnecessary nominalizations, not necessary ones.
 

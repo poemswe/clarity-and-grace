@@ -54,6 +54,14 @@ Every word must tell. Common offenders:
 | in spite of the fact that | although |
 | he is a man who | he |
 | the fact that I had arrived | my arrival |
+| the fact that | cut or rephrase |
+| in order to | to |
+| for the purpose of | to, for |
+| in the event that | if |
+| at this point in time | now |
+| due to the fact that | because |
+| in terms of | cut or be specific |
+| with regard to | about |
 
 Combine fragmented ideas:
 - **51 words**: "Macbeth was very ambitious. This led him to wish to become king of Scotland. The witches told him that this wish of his would come true..."
