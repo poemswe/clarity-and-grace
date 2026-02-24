@@ -1,20 +1,20 @@
 # Clarity and Grace
 
-A Claude Code plugin that teaches Claude to write clear, concrete prose.
+This Claude Code plugin teaches Claude to write clear, concrete prose.
 
 ## What it does
 
-The plugin applies a three-layer writing system whenever Claude writes or edits text that humans will read. Documentation, commit messages, error messages, READMEs, reports, UI copy, explanations. All of it.
+The plugin applies a three-layer writing system whenever Claude writes or edits text that humans will read. That includes documentation, commit messages, error messages, READMEs, reports, UI copy, and explanations.
 
-The three layers:
+The three layers draw from four books.
 
-1. **Stance** (Thomas & Turner, *Clear and Simple as the Truth*). Write as if pointing something out to an intellectual equal. The motive is truth, not persuasion. The tone is conversational, not ceremonial.
+1. **Stance** from Thomas & Turner's *Clear and Simple as the Truth*. Write as if pointing something out to an intellectual equal. The motive is truth. The tone is conversational.
 
-2. **Cognition** (Pinker, *The Sense of Style*). Fight the curse of knowledge. Start from what the reader already knows. Keep working memory load under four items per sentence.
+2. **Cognition** from Pinker's *The Sense of Style*. Fight the curse of knowledge. Start from what the reader already knows. Keep working memory load under four items per sentence.
 
-3. **Mechanics** (Strunk, *Elements of Style* + Williams, *Style: Clarity and Grace*). Active voice, positive form, specific language, characters as subjects, actions as verbs, old information before new, emphasis at the end.
+3. **Mechanics** from Strunk's *Elements of Style* and Williams' *Style: Clarity and Grace*. Write in active voice and positive form. Use specific language. Make characters the subject and actions the verb. Put old information before new and emphatic words at the end.
 
-The plugin includes four condensed reference files with before/after examples for every rule, plus an AI slop ban list with rule citations for every category.
+The plugin ships four condensed reference files with before/after examples for every rule. A separate AI slop ban list cites the principle behind every category.
 
 | File | Covers |
 |---|---|
@@ -63,7 +63,7 @@ claude install-plugin github:poemswe/clarity-and-grace
 
 ## Skill
 
-The plugin provides one skill, `clarity-and-grace:writing`, which activates automatically when Claude writes or edits prose. No manual invocation needed.
+The plugin has one skill, `clarity-and-grace:writing`. It activates automatically when Claude writes or edits prose.
 
 ## Sources
 
