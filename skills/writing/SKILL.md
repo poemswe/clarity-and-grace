@@ -58,6 +58,32 @@ Two reference files contain the actionable rules with before/after examples.
 **Grammar (apply from knowledge):**
 Possessives, serial comma, parenthetic commas, compound clauses, no comma splices, **no fragments** (every sentence needs a finite verb, not just a participle), dangling participles.
 
+## AI-Voice Patterns (Hard Bans)
+
+These patterns recur in AI-generated prose. Ban them outright.
+
+**Throat-clearing** — opening phrases that delay the point.
+Ban: "What this means is," "In practice," "To be clear," "The key here is," "That said."
+Fix: delete the phrase and start with the subject.
+
+**Agency dodging** — verbs that hide who acts.
+Ban: "allows," "enables," "ensures," "provides," "serves as."
+Fix: make the real agent the subject and give it a real verb. "The whitelist allows the agent to run safely" becomes "The agent runs inside a whitelist."
+
+**Pronoun crutch** — "This + abstract noun" as sentence opener.
+Ban: "This constraint," "This approach," "This architecture," "This means that."
+Fix: name the thing. "This constraint forces specificity" becomes "The text-file protocol forces specificity."
+
+**Echo closers** — restating the paragraph's point in a short final sentence.
+Not a ban. Cap at once per piece.
+Flag: "I was generating noise." "The current system has none." "Ambiguity breaks it."
+
+**Filler pairs** — padding that adds no meaning.
+Ban: "both X and Y" (just "X and Y"), "rather than," ending with "as well," "in order to" (just "to").
+
+**AI-voice tells** — words that signal machine authorship.
+Ban: "straightforward," "comprehensive," "seamless," "robust."
+
 ## When Context Is Tight
 
 Dispatch a subagent with your draft + both reference files for copyediting.
