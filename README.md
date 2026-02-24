@@ -14,7 +14,14 @@ The three layers:
 
 3. **Mechanics** (Strunk, *Elements of Style* + Williams, *Style: Clarity and Grace*). Active voice, positive form, specific language, characters as subjects, actions as verbs, old information before new, emphasis at the end.
 
-The plugin includes condensed reference files for Strunk and Williams with before/after examples for every rule.
+The plugin includes four condensed reference files with before/after examples for every rule, plus an AI slop ban list with rule citations for every category.
+
+| File | Covers |
+|---|---|
+| `strunk-condensed.md` | Active voice, positive form, concrete language, needless words, parallel construction, emphasis |
+| `williams-condensed.md` | Characters as subjects, actions as verbs, old-before-new, topic strings, stress position, concision, coherence, elegance |
+| `pinker-condensed.md` | Meta-commentary bans, hedging bans, curse of knowledge, classic prose stance |
+| `ai-slop.md` | Banned vocabulary (Liang et al. 2024), filler phrases, engagement bait, thought-leadership slop, LinkedIn modifiers, formulaic structures |
 
 ## Example
 
@@ -61,3 +68,4 @@ The plugin provides one skill, `clarity-and-grace:writing`, which activates auto
 - Pinker, *The Sense of Style* (2014)
 - Strunk & White, *The Elements of Style* (4th ed.)
 - Williams & Bizup, *Style: Lessons in Clarity and Grace* (12th ed.)
+- Liang et al., "Monitoring AI-Modified Content at Scale" (2024)
