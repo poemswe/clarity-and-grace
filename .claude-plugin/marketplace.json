@@ -1,0 +1,17 @@
+{
+  "name": "lrs-style",
+  "version": "1.0.0",
+  "description": "Three-layer writing system for clear, concrete prose",
+  "owner": {
+    "name": "Poe Myint Swe"
+  },
+  "plugins": [
+    {
+      "name": "lrs-style",
+      "description": "Three-layer writing system — stance (Thomas & Turner), cognition (Pinker), and mechanics (Strunk + Williams) — with condensed reference files and before/after examples for every rule",
+      "version": "1.0.0",
+      "source": "./",
+      "category": "writing"
+    }
+  ]
+}
