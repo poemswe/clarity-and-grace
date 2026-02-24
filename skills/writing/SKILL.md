@@ -20,55 +20,20 @@ Write as if you see something clearly and are turning to an intellectual equal t
 
 ## Cognition (Pinker, The Sense of Style)
 
-Two cognitive principles govern whether readers understand you.
+Two cognitive principles govern whether readers understand you. Full reference with ban lists in `pinker-condensed.md`.
 
 **Curse of knowledge.** You know things your reader does not. This is the single largest source of unclear writing. Before every paragraph, ask: what does the reader already know? Start there. Introduce one new concept at a time. Define terms on first use through context, not parenthetical definitions.
 
 **Chunking.** Working memory holds about four items. If a sentence forces the reader to track more than four new entities, relationships, or qualifications simultaneously, break it apart. Front-load the simple main clause. Let complexity trail behind it in subordinate structures.
 
-## Cognition Reference
-
-**Pinker (The Sense of Style)** — `pinker-condensed.md`
-- 1: **No meta-commentary** (never narrate the act of writing or reading)
-- 2: **No hedging** (commit to claims or present evidence)
-- 3: **Curse of knowledge** (one new concept at a time, four-item working memory limit)
-- 4: **Classic prose stance** (truth-oriented, conversational, no self-reference)
-
 ## Mechanics
-
-Four reference files contain the actionable rules with before/after examples.
-
-**Strunk (Elements of Style)** — `strunk-condensed.md`
-- 8: One paragraph per topic
-- 9: Topic sentence first, end in conformity
-- 10: **Active voice**
-- 11: **Positive form** (say what IS, not what ISN'T)
-- 12: **Specific, concrete language** (if you write a category like "frameworks" or "tools," name one real example)
-- 13: **Omit needless words**
-- 14: Vary sentence structure
-- 15: Parallel construction for coordinate ideas
-- 16: Keep related words together
-- 17: One tense in summaries
-- 18: **Emphatic words at end**
-
-**Williams (Clarity and Grace)** — `williams-condensed.md`
-- 1: **Characters as subjects** (find the real agent, make it the grammatical subject)
-- 2: **Actions as verbs** (turn nominalizations back into verbs; keep nominalizations that ARE the established term)
-- 3: **Old before new** (familiar information first, new information at the end)
-- 4: **Topic strings** (keep consistent subjects across consecutive sentences)
-- 5: **Stress position** (end sentences with your most concrete word, never on something/things/stuff/it/this)
-- 6: **Subject-verb proximity** (keep main character close to its action; main clause first, complexity after)
-- 7: **Concision** (cut meaningless words and bloated phrases)
-- 8: **Coherence** (every sentence in a paragraph must advance its point)
-- 9: **Write for the reader** (you write to think, then rewrite for the reader's benefit)
-- 10: **Elegance** (balance, rhythm. Three consecutive sentences within 2 words of each other is monotony. Vary by at least 3.)
 
 **Grammar (apply from knowledge):**
 Possessives, serial comma, parenthetic commas, compound clauses, no comma splices, **no fragments** (every sentence needs a finite verb, not just a participle), dangling participles.
 
 ## AI-Voice Patterns
 
-These patterns recur in AI-generated prose. The full ban list with categories lives in `ai-slop.md`. The patterns below are structural tells to internalize.
+These patterns recur in AI-generated prose. The full ban list with rule citations lives in `ai-slop.md`. The patterns below are structural tells to internalize.
 
 **Throat-clearing** — opening phrases that delay the point.
 Ban: "What this means is," "In practice," "To be clear," "The key here is," "That said."
@@ -89,8 +54,17 @@ Flag: "I was generating noise." "The current system has none." "Ambiguity breaks
 **Filler pairs** — padding that adds no meaning.
 Ban: "both X and Y" (just "X and Y"), "rather than," ending with "as well," "in order to" (just "to").
 
-**Banned vocabulary and slop phrases** — see `ai-slop.md` for the complete list of banned words (Liang et al. 2024), filler phrases, engagement bait, thought-leadership slop, LinkedIn modifiers, and formulaic structures.
+## Reference Files
+
+Four files contain the actionable rules with before/after examples.
+
+| File | Source | Covers |
+|---|---|---|
+| `strunk-condensed.md` | Strunk, Elements of Style | Active voice, positive form, concrete language, needless words, parallel construction, emphasis |
+| `williams-condensed.md` | Williams, Clarity and Grace | Characters as subjects, actions as verbs, old-before-new, topic strings, stress position, concision, coherence, elegance |
+| `pinker-condensed.md` | Pinker, The Sense of Style | Meta-commentary bans, hedging bans, curse of knowledge, classic prose stance |
+| `ai-slop.md` | Liang et al. 2024, corpus analysis | Banned vocabulary, filler phrases, transitions, engagement bait, thought-leadership slop, LinkedIn modifiers, formulaic structures |
 
 ## When Context Is Tight
 
-Dispatch a subagent with your draft + both reference files for copyediting.
+Dispatch a subagent with your draft + the reference files for copyediting.
