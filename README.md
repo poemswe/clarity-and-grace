@@ -67,7 +67,7 @@ The plugin has one skill, `clarity-and-grace:writing`. It activates automaticall
 
 ## Limitations
 
-The plugin pushes against tendencies that live in the model's weights, not in the prompt. LLMs favor high-probability tokens (Holtzman et al., 2020), distribute information uniformly across sentences (Meister et al.), and approximate language through pattern-matching rather than comprehension. The plugin can ban specific words, enforce structural rules, and shift output with before/after examples. It cannot give the model a writer's ear for rhythm, surprise, or emphasis. Those remain statistical approximations of the real thing.
+The plugin fights tendencies baked into the model's weights. LLMs favor high-probability tokens (Holtzman et al., 2020), distribute information uniformly across sentences (Meister et al.), and approximate language through pattern-matching. The plugin bans specific words, enforces structural rules, and shifts output with before/after examples. Rhythm, surprise, and emphasis still come from the human who edits the final draft.
 
 ## Sources
 
