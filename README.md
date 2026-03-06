@@ -57,8 +57,18 @@ The plugin ships four condensed reference files with before/after examples for e
 
 ## Install
 
+**Option 1: Claude Code slash commands**
+
 ```
-claude install-plugin github:poemswe/clarity-and-grace
+/plugin marketplace add poemswe/clarity-and-grace
+/plugin install clarity-and-grace
+```
+
+**Option 2: Claude CLI**
+
+```
+claude plugin install poemswe/clarity-and-grace
+claude plugin install clarity-and-grace
 ```
 
 ## Skill
